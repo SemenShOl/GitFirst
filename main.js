@@ -55,6 +55,7 @@ async function money(){
         eur.innerText = ans.Valute.EUR.Value
         console.log('ГГГГГ')
         console.log('Да здравствует Git')
+        console.log('Другая ветка')
         // console.log(ans)
     }
     catch(e)
